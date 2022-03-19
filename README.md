@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 👨‍🎓 I’m currently studying on **Codecademy and FreeCodeCamp**
-
 - 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **Sandlerzop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
